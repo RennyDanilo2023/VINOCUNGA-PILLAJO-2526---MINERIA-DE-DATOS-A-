@@ -1,6 +1,8 @@
 # Sistema de Predicción de Calidad de Café
 
 Aplicación desarrollada en Python mediante Streamlit para la predicción automática de la calidad del café utilizando técnicas de minería de datos y aprendizaje automático.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/50e78108-035b-4021-a42f-1ea2099891fb" />
+
 
 ## Categorías de clasificación
 
@@ -27,7 +29,9 @@ El modelo emplea atributos sensoriales del café:
 - Clean Cup  
 - Sweetness  
 - Overall  
-- Moisture Percentage  
+- Moisture Percentage
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/594eb650-e62a-4785-a8e5-bae3da197803" />
+
 
 ## Tecnologías utilizadas
 
