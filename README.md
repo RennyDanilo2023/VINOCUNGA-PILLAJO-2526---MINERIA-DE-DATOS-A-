@@ -10,6 +10,8 @@ El modelo clasifica la calidad del café en cuatro categorías:
 - Bueno
 - Muy bueno
 - Excelente
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fd7f70dc-8e30-4952-bcf5-8e1774122870" />
+
 
 ## Variables utilizadas
 
